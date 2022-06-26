@@ -1,0 +1,6 @@
+
+
+JS de fonksiyonu tanımlandıgı gibi cagırmamızı yani run ettirmemizi saglayan quic Decleration yontemi mevcuttur
+
+ quic decleration -> ( ()=>{ })(); -> ilk parantez icerisine tanımlıyoruz ikinci parantez sayesinde run 
+                                      edilmesini saglıyoruz 

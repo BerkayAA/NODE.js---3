@@ -1,0 +1,6 @@
+
+
+birden cok promisei topluca calıstırıp hepsinin sonucunu topluca elde etmek istedigimiz durumda istedigimiz 
+promisleri await anahtar kelimesi olmadan oluştururuz . sonra await anahtaar kelimesi ile Promise.all([])
+komutunu icerisie promislerimizi yazarak calıstırırız boylece tum promisler tek elden calıstırılır ve 
+bu promislerin cıktıları da bize bir array icerisinde dondurulur 

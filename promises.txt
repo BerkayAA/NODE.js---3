@@ -1,0 +1,13 @@
+promisleri dart da kullandıgımız future fonksiyonlara benzetebiliriz. Promis icerisindeki resolve fonksiyonu 
+then icerisinde bize dondurulen parametrenin kendisidir. Kısacası rexolve icine aldıgı paraetreyi then geri 
+dondurut. Dikkat edilmesi gereken resolve'ın icerisine alacagı parametrenin future olması gerektigi neticede 
+bize then ile donduurluyor 
+
+
+
+Promise constructoru icerisindeki reject fonksiyonu ile de herhangi bir error durumunda oluşan erroru 
+dondururuz. Reject ile dondurulen bu error da bize catch icerisinde geri dondurulur.
+
+
+promislerin tanımlanmasında kullanılan resolve ve reject isimlendirmeleri standart isimlendirmelerdir
+anlasılırlıgı arttırmak icin kullanılması tavsiye edilir 

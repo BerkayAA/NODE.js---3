@@ -1,0 +1,9 @@
+
+==> ic ice cllbacker yazarak oluşturdugumuz yapılar biz istemeden karmasıklasabilir. hatta oluşabilecek bu 
+    karmaşıklıgın ozel ismi callback helldir.
+
+
+==> callback hell'lere sebebiyet vermemek icin promises yapılarını kullanırız 
+
+
+

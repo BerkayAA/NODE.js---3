@@ -1,0 +1,6 @@
+PROMİSES  yapıları sayesinde cllback hellerin onune gecebiliriz yapılan islemleri then anahtar kelimeleri 
+ile yoneterek daha okunaklı ve mantılı yapılar elde edebiliriz 
+
+
+Promisleri kullanarak then ile yonettigimiz senaryoyu async ve await anahtar kelimelerini Promiselerle 
+kullanarak daha verimli cozumlere ulasabiliriz 
